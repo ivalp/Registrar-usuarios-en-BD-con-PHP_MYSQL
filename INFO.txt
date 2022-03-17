@@ -1,0 +1,14 @@
+
+- Tecnologías >  HTML, CSS, PHP
+
+- Servidor y BD >  XAMPP, PHPMYADMIN
+
+- Editor de texto >  Visual Studio Code
+
+
+- Carpeta BD >  C:\xampp\mysql\data\registro
+
+- Carpeta proyecto >  C:\xampp\htdocs\registro
+
+
+- Iniciar aplicación > http://localhost/registro/
